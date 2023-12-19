@@ -2,6 +2,8 @@
 
 ### Resolução
 
+Link da imagem: https://hub.docker.com/repository/docker/guilr14/fullcycle
+
 Rode o comando:
 
 ```sh
