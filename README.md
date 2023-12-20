@@ -1,6 +1,20 @@
 # Full Cycle / Desafio Docker 01
 
-### Esse desafio é muito empolgante principalmente se você nunca trabalhou com a linguagem Go!
+## Resolução
+
+Link da imagem: https://hub.docker.com/repository/docker/guilr14/fullcycle
+
+Rode o comando:
+
+```sh
+docker run guilr14/fullcycle
+```
+
+--- 
+
+## Instruções
+
+##### Esse desafio é muito empolgante principalmente se você nunca trabalhou com a linguagem Go!
 
 Você terá que publicar uma imagem no docker hub. Quando executarmos:
 
