@@ -6,7 +6,7 @@ COPY . .
 
 RUN go build -v -o main -ldflags "-s -w" main.go
 
-# Distroless image para dimunir o tamanho
+
 FROM scratch as final
 
 WORKDIR /
